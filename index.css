@@ -1,0 +1,19 @@
+body{ background-color: black;}
+        h1{
+            color:white;
+        }
+        img{
+            width: 33%;
+        }
+        div{ text-align: right;
+        
+        }
+        p{color:white;
+        font-size: 23px;
+        }
+        a{color:white;
+        font-size: 30px;
+    text-decoration: none;
+}
+a:hover{color:pink}
+input{color: blue}
